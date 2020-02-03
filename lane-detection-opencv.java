@@ -1,4 +1,5 @@
-//middle and R OR L
+//Output videos: https://www.youtube.com/DhavalKadia
+
 package pool.tests;
 
 import org.opencv.core.Core;
