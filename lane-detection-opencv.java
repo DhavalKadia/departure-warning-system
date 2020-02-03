@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 //Output videos: https://www.youtube.com/DhavalKadia
 
->>>>>>> 972d298577cbbb5ef1fb108a1b42037ba72d41a9
 package pool.tests;
 
 import org.opencv.core.Core;
